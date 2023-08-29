@@ -14,32 +14,32 @@ Single Responsibility Principle:
 ----------------------
 A class should have only one responsibility. This means that each class should have only one reason to change and only one task or responsibility within the system.
 
-![Srp image](images/srp.png)
+![Srp image](Images/srp.png)
 
 
 Open-Closed Principle: 
 ----------------------
 A class should be open for extension but closed for modification. This means that the behavior of the class can be extended without modifying its original source code.
 
-![Ocp image](images/ocp.png)
+![Ocp image](Images/ocp.png)
 
 
 Liskov Substitution Principle: 
 ----------------------
 Subtypes should be substitutable for their base types. This means that derived classes should be able to be used anywhere their base classes are used.
 
-![Lsp image](images/lsp.png)
+![Lsp image](Images/lsp.png)
 
 
 Interface Segregation Principle: 
 ----------------------
 A class should not be forced to implement interfaces and methods that are not used. This means that interfaces should be specific and cohesive, and classes should implement only the methods necessary for their operation.
 
-![Isp](images/isp.png)
+![Isp](Images/isp.png)
 
 
 Dependency Inversion Principle: 
 ----------------------
 High-level modules should not depend on low-level modules, both should depend on abstractions.
 
-![Dip image](images/dip.png)
+![Dip image](Images/dip.png)
